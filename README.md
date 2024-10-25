@@ -1,6 +1,3 @@
-Here's a complete `README.md` file for your "To-Do List" web application project. You can copy and paste this into your `README.md` file in the root of your project directory:
-
-markdown
 Simple To-Do App
 
 A basic To-Do List application built using Node.js and Express. This app allows users to add and view tasks.
