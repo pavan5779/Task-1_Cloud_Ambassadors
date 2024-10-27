@@ -99,7 +99,7 @@ Open your web browser and navigate to `http://<your-ec2-public-ip>` or `http://<
 
 URL for Public Access
 
-Your deployed app can be accessed http://52.27.162.42:3000/
+Your deployed app can be accessed http://52.13.78.187:3000/
 
 Conclusion
 
